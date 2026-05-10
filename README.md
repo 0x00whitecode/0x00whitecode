@@ -1,33 +1,106 @@
 ![Header](./head.png)
 
-## Hi there 👋
+# Software Engineer | Rust Backend Developer | Open Source Contributor
 
+I am a software engineer focused on building reliable, scalable, and high-performance systems. My background in full-stack development shaped a strong understanding of product thinking, system architecture, and user impact. I now specialize in backend engineering with Rust, distributed systems, and performance-oriented infrastructure.
 
-I’m a Rust backend developer focused on building reliable, efficient, and scalable systems that solve real business problems. I began my journey as a full-stack developer, which shaped a strong product mindset and a deep appreciation for user impact. Today, I design and build high-performance backend systems using Rust and Actix Web, delivering secure, correct, and maintainable APIs.
-
-
-My work has resulted in reducing API response latency by over 30%, handling 10,000+ concurrent requests, and improving system reliability through careful concurrency control and data-consistency design. I care deeply about performance, security, and correctness, and I enjoy translating complex technical challenges into clear, practical solutions that align engineering efforts with business and product goals.
-
-
-I’m always keen to connect with innovators and teams building robust backend systems—feel free to reach out.
+I design and develop backend systems that prioritize correctness, maintainability, security, and operational efficiency. I enjoy solving complex engineering challenges, improving system performance, and building software that scales reliably under production workloads.
 
 ---
 
-### 💻 Languages and Tools
+## Professional Summary
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-###
-
-
+- Backend engineering with Rust and Actix Web
+- Distributed systems and concurrent application design
+- API architecture and performance optimization
+- Infrastructure-focused engineering and reliability
+- Open-source collaboration and developer tooling
+- Cross-functional collaboration between engineering and product teams
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x00whitecode&show_icons=true&locale=en&layout=compact" alt="0x00whitecode" /></p>
+## Selected Engineering Impact
 
-### 💬 Fun Fact
+- Reduced API response latency by more than 30% through system optimization and efficient request handling
+- Designed backend systems capable of supporting 10,000+ concurrent requests
+- Improved reliability and consistency through concurrency-safe architecture and robust system design
+- Built secure, maintainable, and production-ready APIs
+- Experience across backend systems, automation, AI tooling, and full-stack application development
 
-When I’m not coding, I enjoy **playing chess, exploring financial markets, reading tech articles**, and tinkering with gadgets to learn new technologies.
+---
 
+## Technical Skills
+
+### Languages
+- Rust
+- TypeScript
+- JavaScript
+- Python
+- C++
+
+### Backend & Infrastructure
+- Actix Web
+- Node.js
+- Django
+- GraphQL
+- Apache Kafka
+- Redis
+- Nginx
+- Docker
+
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+
+### Frontend & Mobile
+- React
+- React Native
+- Tailwind CSS
+- Electron
+
+### AI & Data Engineering
+- PyTorch
+- Scikit-Learn
+- OpenCV
+- Pandas
+
+### Tools & Platforms
+- Linux
+- Git
+- Bash
+- Postman
+
+---
+
+## Open Source
+
+I actively contribute to open-source projects and enjoy collaborating on backend infrastructure, developer tooling, distributed systems, and scalable platform engineering.
+
+Areas of interest include:
+- High-performance backend systems
+- Infrastructure engineering
+- Distributed systems
+- Developer platforms and tooling
+- Performance optimization
+- Systems programming with Rust
+
+
+
+## Interests
+
+Outside of engineering, I enjoy studying financial markets, reading technical literature, playing chess, and exploring emerging technologies.
+
+---
+
+## Contact
+
+I am interested in opportunities involving:
+- Backend engineering
+- Distributed systems
+- Infrastructure and platform engineering
+- Rust systems development
+- Open-source collaboration
+
+Building reliable systems with performance, scalability, and long-term maintainability in mind.
+```
