@@ -1,106 +1,62 @@
 ![Header](./head.png)
 
-# Software Engineer | Rust Backend Developer | Open Source Contributor
+# Software Engineer
+**Rust Backend Developer · Distributed Systems · Open Source**
 
-I am a software engineer focused on building reliable, scalable, and high-performance systems. My background in full-stack development shaped a strong understanding of product thinking, system architecture, and user impact. I now specialize in backend engineering with Rust, distributed systems, and performance-oriented infrastructure.
-
-I design and develop backend systems that prioritize correctness, maintainability, security, and operational efficiency. I enjoy solving complex engineering challenges, improving system performance, and building software that scales reliably under production workloads.
-
----
-
-## Professional Summary
-
-- Backend engineering with Rust and Actix Web
-- Distributed systems and concurrent application design
-- API architecture and performance optimization
-- Infrastructure-focused engineering and reliability
-- Open-source collaboration and developer tooling
-- Cross-functional collaboration between engineering and product teams
+> Building reliable, high-performance backend systems. Full-stack background sharpened my instinct for product thinking and system architecture. Today I specialize in Rust, distributed systems, and infrastructure built to hold up under production load.
 
 ---
 
-## Selected Engineering Impact
+## Impact
 
-- Reduced API response latency by more than 30% through system optimization and efficient request handling
-- Designed backend systems capable of supporting 10,000+ concurrent requests
-- Improved reliability and consistency through concurrency-safe architecture and robust system design
-- Built secure, maintainable, and production-ready APIs
-- Experience across backend systems, automation, AI tooling, and full-stack application development
+| Metric | Result |
+|---|---|
+| API response latency | Reduced by **30%+** via system-level optimization |
+| Concurrent requests | Designed systems supporting **10,000+** simultaneous connections |
+| Architecture | Concurrency-safe, production-ready APIs built for scale |
 
 ---
 
 ## Technical Skills
 
-### Languages
-- Rust
-- TypeScript
-- JavaScript
-- Python
-- C++
+**Languages**
+`Rust` `TypeScript` `JavaScript` `Python` `C++`
 
-### Backend & Infrastructure
-- Actix Web
-- Node.js
-- Django
-- GraphQL
-- Apache Kafka
-- Redis
-- Nginx
-- Docker
+**Backend & Infrastructure**
+`Actix Web` `Node.js` `Django` `GraphQL` `Apache Kafka` `Redis` `Nginx` `Docker`
 
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
+**Databases**
+`PostgreSQL` `MongoDB` `MySQL`
 
-### Frontend & Mobile
-- React
-- React Native
-- Tailwind CSS
-- Electron
+**Frontend & Mobile**
+`React` `React Native` `Tailwind CSS` `Electron`
 
-### AI & Data Engineering
-- PyTorch
-- Scikit-Learn
-- OpenCV
-- Pandas
+**AI & Data Engineering**
+`PyTorch` `Scikit-Learn` `OpenCV` `Pandas`
 
-### Tools & Platforms
-- Linux
-- Git
-- Bash
-- Postman
+**Tools & Platforms**
+`Linux` `Git` `Bash` `Postman`
 
 ---
 
 ## Open Source
 
-I actively contribute to open-source projects and enjoy collaborating on backend infrastructure, developer tooling, distributed systems, and scalable platform engineering.
+Actively contributing to backend infrastructure, developer tooling, and scalable platform engineering.
 
-Areas of interest include:
 - High-performance backend systems
-- Infrastructure engineering
-- Distributed systems
+- Distributed systems & infrastructure engineering
 - Developer platforms and tooling
-- Performance optimization
 - Systems programming with Rust
-
-
-
-## Interests
-
-Outside of engineering, I enjoy studying financial markets, reading technical literature, playing chess, and exploring emerging technologies.
+- Performance optimization
 
 ---
 
-## Contact
+## Interests
 
-I am interested in opportunities involving:
-- Backend engineering
-- Distributed systems
-- Infrastructure and platform engineering
-- Rust systems development
-- Open-source collaboration
+📈 Financial markets &nbsp;·&nbsp; 📚 Technical literature &nbsp;·&nbsp; ♟️ Chess &nbsp;·&nbsp; 🔬 Emerging technologies
 
-Building reliable systems with performance, scalability, and long-term maintainability in mind.
-```
+---
+
+## Open To
+
+`Backend Engineering` `Distributed Systems` `Infrastructure & Platform` `Rust Development` `Open Source Collaboration`
